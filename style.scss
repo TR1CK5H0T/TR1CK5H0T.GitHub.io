@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: url(https://www.planwallpaper.com/static/images/0ae09e0e32ee9e71552e3a9872f96335.jpg);
+	background: url(http://wallpapercave.com/wp/P7nRECf.jpg);
   font: 18px/1.4 $helvetica;
   color: $white;
 }
@@ -63,7 +63,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $white;
 }
 
 p {
@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -124,11 +124,11 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 
