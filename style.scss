@@ -23,6 +23,19 @@ body {
   color: $white;
 }
 
+table{
+	width:100%;
+	margin-bottom:15pt;
+	box-shadow; 0 4pt 8pt 0 rgba(0, 0, 0, 0.4), 0 6pt 20pt 0 rgba(0, 0, 0, 0.3);
+}
+table, td {
+	border-radius: 10pt;
+	border-collapse: collapse;
+	padding; 15pt;
+	text-align; left;
+{
+	
+
 .container {
   margin: 0 auto;
   max-width: 740px;
