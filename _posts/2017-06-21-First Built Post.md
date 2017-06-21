@@ -3,5 +3,6 @@ published: true
 ---
 ## Practicing  -
 
-![Test]({{site.baseurl}}/ "Test")
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+| What I did | How It Went |
+|------------|------------|
+| Stuff | Other Stuff
