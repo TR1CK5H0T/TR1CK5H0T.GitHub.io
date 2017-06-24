@@ -1,13 +1,13 @@
 ---
 published: true
 ---
-## Practicing  -
+## Practicing  - Making a table
 
-|     **Date**     |  How It Went |
+|   **Date**  |  How It Went |
 |   ------------   | ------------ |
 |    **Title**     |  Other Stuff |
 |   ------------   | ------------ |
-|                  |              | 
+|   **Starting Point**  |              | 
 |   ------------   | ------------ |
 |                  |              |
 |   ------------   | ------------ |
