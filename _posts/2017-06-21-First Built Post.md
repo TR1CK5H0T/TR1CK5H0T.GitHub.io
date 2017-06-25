@@ -3,9 +3,9 @@ published: true
 ---
 ## Practicing  - Making a table
 
-|   **Date**          |  How It Went |
+|      **Date**       |  25th June 2017 |
 |   ------------      | ------------ |
-|    **Title**        |  Other Stuff |
+|    **Title**        |  MAking my own post |
 |   ------------      | ------------ |
 |   **Starting Point**  |I had a wallpaper and a user logo.| 
 |   ------------      | ------------ |
