@@ -3,7 +3,7 @@ published: true
 ---
 ## Practicing  - Making a table
 
-|   **Date**  |  How It Went |
+|   **Date**          |  How It Went |
 |   ------------      | ------------ |
 |    **Title**        |  Other Stuff |
 |   ------------      | ------------ |
@@ -11,5 +11,5 @@ published: true
 |   ------------      | ------------ |
 |   **Target for this lesson** | To change the colour of the container and font and change the wallpaper.|
 |   ------------      | ------------ |
-|   **Did I reach it**|              |
+|   **Did I reach it**|     Yes      |
 |   ------------      | ------------ |
