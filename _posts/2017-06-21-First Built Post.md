@@ -3,7 +3,8 @@ published: true
 ---
 ## Practicing  - Making a table
 
-
+|     Heading          |  Answer      |
+|    ------------      | ------------ |
 |     **Date**         |  25th June 2017 |
 |    ------------      | ------------ |
 |     **Title**        |  Making my own post |
