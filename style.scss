@@ -248,7 +248,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 0px solid $white;
+  border-bottom: 5px solid $white;
 }
 
 .posts > .post:last-child {
@@ -262,7 +262,7 @@ nav {
     border-left: 0px solid $white;
     padding: 0.1em 1em;
     color: $white;
-    font-size: 22px;
+    font-size: 50px;
     font-style: italic;
   }
 
