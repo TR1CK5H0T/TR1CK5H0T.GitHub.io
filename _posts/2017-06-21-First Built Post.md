@@ -11,5 +11,5 @@ published: true
 |   ------------      | ------------ |
 |   **Target for this lesson** | To change the colour of the container and font and change the wallpaper.|
 |   ------------      | ------------ |
-|   **Did I reach it**|     Yes      |
+|   **Did I reach it** |     Yes      |
 |   ------------      | ------------ |
