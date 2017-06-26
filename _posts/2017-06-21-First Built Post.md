@@ -3,7 +3,7 @@ published: true
 ---
 ## Practicing  - Making a table
 
-|     Heading          |  Answer      |
+|     Blank            |  Blank       |
 |    ------------      | ------------ |
 |     **Date**         |  25th June 2017 |
 |    ------------      | ------------ |
