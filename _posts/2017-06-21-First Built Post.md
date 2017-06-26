@@ -15,3 +15,8 @@ published: true
 |    ------------      | ------------ |
 |   **Did I reach it** |     Yes      |
 |    ------------      | ------------ |
+
+**Lesson Review**
+
+|   Learning style   |   Answer   |
+|   ------------     |   ------------   |
