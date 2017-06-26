@@ -20,3 +20,4 @@ published: true
 
 |   Learning style   |   Answer   |
 |   ------------     |   ------------   |
+|   How did I learn? What strategies were effective?   |  Mainly by focused listening and watching a demonstration. Used classroom resources for help.|
