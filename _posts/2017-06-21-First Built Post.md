@@ -3,6 +3,8 @@ published: true
 ---
 ## Practicing  - Making a table
 
+![]({{site.baseurl}}/http://www.planwallpaper.com/static/images/Nature-Beach-Scenery-Wallpaper-HD.jpg)
+
 |     Blank            |  Blank       |
 |    ------------      | ------------ |
 |     **Date**         |  25th June 2017 |
