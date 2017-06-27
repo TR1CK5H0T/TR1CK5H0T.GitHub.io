@@ -24,4 +24,4 @@ published: true
 |   **What limited my learning? Which habits do I need to work on?**  |   Press on edit code before I go to edit it because I scroll down to edit my code then have to scroll back to the top.|
 |   **What will I change for next time? How will I improve my learning?**  |  Do more advanced things shown in the demonstration.  |
 
-http://prose.io/#TR1CK5H0T/TR1CK5H0T.github.io/tree/master/_posts
+[Editing More Easily](http://prose.io/#TR1CK5H0T/TR1CK5H0T.github.io/tree/master/_posts "Prose")
