@@ -3,7 +3,7 @@ published: true
 ---
 ## Practicing  - Making a table
 
-![]({{site.baseurl}}/http://www.planwallpaper.com/static/images/Nature-Beach-Scenery-Wallpaper-HD.jpg)
+![Cool Image]({{site.baseurl}}/http://www.planwallpaper.com/static/images/Nature-Beach-Scenery-Wallpaper-HD.jpg)
 
 |     Blank            |  Blank       |
 |    ------------      | ------------ |
