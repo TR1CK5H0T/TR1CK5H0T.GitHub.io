@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Changing the background
 layout: post
 author: samuel.nightingill
 permalink: /untitled-document/
